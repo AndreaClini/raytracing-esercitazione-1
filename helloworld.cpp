@@ -1,12 +1,12 @@
 #include <iostream>
 
-int main(int argc, char* argv[]) {
+int main() {
     
     //uncomment this line and substitute it to the previous one to get a name as argument
     //int main(int argc, char* argv[]) { 
 
     // Default message
-    std::cout << "Hello Wold";  //there is a typo!
+    std::cout << "Hello World";  //fixed the typo
 
     // // If a name is provided as a command-line argument, append it
     
