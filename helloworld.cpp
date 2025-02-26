@@ -7,7 +7,7 @@ int main() {
 // int main(int argc, char* argv[]) { 
 
     // Default message
-    std::cout << "Hello Wold";  //contains typo!
+    std::cout << "Hello World";  //fixed the typo
 
     //uncomment this part to print the argument name
     
